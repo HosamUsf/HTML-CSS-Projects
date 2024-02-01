@@ -15,7 +15,7 @@ Feel free to explore the projects, and if you have any suggestions or improvemen
 ## Project List
 
 1. **Responsive Profile Card**
-   - Link: [Link](https://github.com/HosamUsf/HTML-CSS-Projects/tree/main/1%20Responsive%20Profile%20Card)
+   - [Project Files](https://github.com/HosamUsf/HTML-CSS-Projects/tree/main/1%20Responsive%20Profile%20Card)
 
 
 ## Getting Started

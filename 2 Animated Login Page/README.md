@@ -1,8 +1,9 @@
-# Animated Login Page
+# Animated Login & Registration Page
 
 Create a visually appealing animated login page using HTML and CSS.
 
 ## Preview
+
 
 
 ## Features

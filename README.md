@@ -18,7 +18,7 @@ Feel free to explore the projects, and if you have any suggestions or improvemen
    - [Project Files](https://github.com/HosamUsf/HTML-CSS-Projects/tree/main/1%20Responsive%20Profile%20Card)
 
 2. ** Animated Login & Registration Page **
-   - [Project Files](https://github.com/HosamUsf/HTML-CSS-Projects/tree/main/1%20Responsive%20Profile%20Card)
+   - [Project Files](https://github.com/HosamUsf/HTML-CSS-Projects/tree/main/2%20Animated%20Login%20%26%20Registration%20Page)
 
 
 
